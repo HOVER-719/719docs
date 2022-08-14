@@ -7,7 +7,7 @@
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 719飞行器实验室纳新相关
 
    source/719hover
