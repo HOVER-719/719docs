@@ -20,9 +20,3 @@
 
    source/电控组
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
