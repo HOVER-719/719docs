@@ -12,6 +12,7 @@
 
    source/719hover
    source/纳新常见问题
+   source/纳新手册
 
 
 
