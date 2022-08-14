@@ -8,13 +8,17 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 719飞行器实验室纳新相关
+   :caption: 719飞行器实验室2022纳新相关
 
    source/719hover
    source/纳新常见问题
    source/纳新手册
 
+.. toctree::
+   :maxdepth: 1
+   :caption: 纳新相关资料
 
+   source/电控组
 
 Indices and tables
 ==================
