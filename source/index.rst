@@ -7,7 +7,7 @@
 =====================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1000
    :caption: 719飞行器实验室2022纳新相关
 
    source/719hover
@@ -15,7 +15,7 @@
    source/纳新手册
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1000
    :caption: 纳新相关资料
 
    source/电控组
