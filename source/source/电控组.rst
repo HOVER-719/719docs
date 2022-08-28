@@ -3,9 +3,9 @@
 
 学习资料：
 
-   - `2020培训一设计飞行器概述及基本元件讲解 <https://github.com/HIT-zhangrun/719hover/raw/master/source/files/2020培训一设计飞行器概述及基本元件讲解.pdf>`_
-   - `四轴PID讲解 <https://github.com/HIT-zhangrun/719hover/raw/master/source/files/四轴PID讲解.pdf>`_
-   - `由入门到精通吃透PID <https://github.com/HIT-zhangrun/719hover/raw/master/source/files/由入门到精通吃透PID.pdf>`_
-   - `PID控制算法的C语言实现(完整版) <https://github.com/HIT-zhangrun/719hover/raw/master/source/files/PID控制算法的C语言实现(完整版).pdf>`_
-   - `PID控制原理及编程方法 <https://github.com/HIT-zhangrun/719hover/raw/master/source/files/PID控制原理及编程方法.pdf>`_
-   - `PID调节原理 <https://github.com/HIT-zhangrun/719hover/raw/master/source/files/PID调节原理.docx>`_
+   - `2020培训一设计飞行器概述及基本元件讲解 <https://github.com/HOVER-719/719docs/raw/master/source/files/2020培训一设计飞行器概述及基本元件讲解.pdf>`_
+   - `四轴PID讲解 <https://github.com/HOVER-719/719docs/raw/master/source/files/四轴PID讲解.pdf>`_
+   - `由入门到精通吃透PID <https://github.com/HOVER-719/719docs/raw/master/source/files/由入门到精通吃透PID.pdf>`_
+   - `PID控制算法的C语言实现(完整版) <https://github.com/HOVER-719/719docs/raw/master/source/files/PID控制算法的C语言实现(完整版).pdf>`_
+   - `PID控制原理及编程方法 <https://github.com/HOVER-719/719docs/raw/master/source/files/PID控制原理及编程方法.pdf>`_
+   - `PID调节原理 <https://github.com/HOVER-719/719docs/raw/master/source/files/PID调节原理.docx>`_
